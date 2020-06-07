@@ -1,0 +1,28 @@
+body {
+    font-family:Arial, Helvetica, Arial, Helvetica, sans-serif;
+    background-color: rgb(202, 173, 42);
+}
+
+img {
+    border: 10px solid rgb(207, 131, 18);
+}
+
+h1 {
+    border: 10px solid#DAA520;
+}
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-style: italic;
+    text-align: center;
+}
+
+cite {
+    font-size: 1rem;
+}
+
+.bigbold {
+    font-weight: normal;
+    font-size: .3rem;
+}
